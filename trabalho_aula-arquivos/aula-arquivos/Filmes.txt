@@ -1,0 +1,5 @@
+
+{"nome":"oiiiiii","ano":"12","classificacao":2020}
+{"nome":"A culpa � das estrelas","ano":"2004","classificacao":12}
+{"nome":"A culpa � das estrelas","ano":"2004","classificacao":12}
+{"nome":"A galinha pintadinha","ano":"2000","classificacao":12}
